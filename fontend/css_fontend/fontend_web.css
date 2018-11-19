@@ -1,0 +1,144 @@
+/* CSS HEADRR */
+.header{
+    background: #f1f0ee;
+}
+.title{
+    text-align: center;
+    margin-top: 20px;
+}
+.main-menu ul{
+    list-style-type: none;
+    text-align: center;
+}
+.main-menu ul li{
+    display: inline-block;
+    margin-top: 28px;
+    padding:0 20px;
+}
+.onclick{
+    background: #f4f2f0;
+    border: 1px solid #1769ff;
+    border-radius: 20px;
+    color: #1769ff ;
+    padding: 5px 15px;
+}
+.main-menu a:hover{
+    text-decoration: none;
+    color: #00CC00;
+}
+/* CSS Banner */
+.banner{
+    background: #f1f0ee;
+    clear: both;
+}
+.a2{
+    width: 50%;
+}
+.a1{
+    margin-top: 100px;
+    width: 50%;
+    float: right;
+}
+.g1{
+    margin-left: 80px;
+    overflow: hidden;
+}
+#click1{
+    background: #1769ff;
+    border: 1px solid #1769ff;
+    border-radius: 20px;
+    color: #ffffff ;
+    padding: 5px 15px;
+    font-size: 20px;
+}
+/* css section about */
+.about{
+
+    background: #fafafa;
+}
+.heading{
+    text-align: center;
+}
+.title-an h1{
+        padding-top: 35px;
+        color: #eeeeee;
+}
+.title-an p b{
+    font-size: 20px;
+    letter-spacing: 10px;
+    position: relative;
+    top: -45px;
+}
+.doc{
+    text-align: center;
+    padding: 50px 0;
+}
+.square{
+    width: 300px;
+    height: 300px;
+}
+.square p{
+    font-size: 10px;
+}
+.square.two{
+    background: #1769ff;
+    color: #ffffff;
+    box-shadow: 5px 5px 5px 5px #dddddd;
+}
+/* css portfolio2 */
+.portfolio2{
+    background: #f4f4f4;
+    text-align: center;
+    padding: 35px 0;
+}
+.imgaes{
+    margin-top: 50px ;
+    text-align: center;
+}
+/* css cnt */
+.bg{
+   padding-top: 25px;
+}
+.Testiomonials{
+    height: 600px;
+    background: #f4f4f4;
+}
+.cnt2{
+    padding-top: 50px;
+    text-align: center;
+}
+.cnt2 h1{
+   padding-bottom: 40px;
+}
+.icon2{
+    position: relative;
+    top: 0;
+    left: -35px;
+    color: black;
+}
+.footer a:hover{
+    background: none;
+    color:black;
+}
+/* css footer */
+
+.search{
+    border-radius: 20px;
+}
+.icon{
+    text-align: center;
+   margin: 30px 30px;
+}
+.fb{
+   line-height: 40px;
+    width:40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #ebebeb;
+}
+input:focus{
+    outline: none;
+}
+button:focus{
+    outline: none;
+}
